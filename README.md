@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/noobcoder909/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/noobcoder909/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/noobcoder909/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/noobcoder909/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/noobcoder909/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/noobcoder909/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/noobcoder909/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Sorting
 |  |
