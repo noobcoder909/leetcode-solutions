@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/noobcoder909/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0347-top-k-frequent-elements](https://github.com/noobcoder909/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/noobcoder909/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/noobcoder909/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/noobcoder909/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
