@@ -58,3 +58,11 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>8</sup></code></li>
 </ul>
+
+<h1>-- My Approach --</h1>
+<ul>
+	<li>took a ordered alphabet list</li>
+	<li>converted the given int into binary</li>
+	<li>going in reverse placing the alphabets from same index where the binary no. is one  and ignoring the zeros till index is 25(at index 25 z is there)</li>
+	<li>placing 'zz' at the rest indices where index is grater than 25</li>
+</ul>
