@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/noobcoder909/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0347-top-k-frequent-elements](https://github.com/noobcoder909/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1539-kth-missing-positive-number](https://github.com/noobcoder909/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/noobcoder909/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/noobcoder909/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/noobcoder909/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
