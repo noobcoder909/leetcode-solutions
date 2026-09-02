@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/noobcoder909/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0347-top-k-frequent-elements](https://github.com/noobcoder909/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/noobcoder909/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/noobcoder909/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/noobcoder909/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
