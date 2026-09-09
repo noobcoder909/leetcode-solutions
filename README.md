@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/noobcoder909/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/noobcoder909/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/noobcoder909/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/noobcoder909/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/noobcoder909/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/noobcoder909/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/noobcoder909/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
