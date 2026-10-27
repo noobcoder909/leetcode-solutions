@@ -80,10 +80,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/noobcoder909/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/noobcoder909/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/noobcoder909/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/noobcoder909/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/noobcoder909/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
